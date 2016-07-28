@@ -1,0 +1,20 @@
+.navbar-custom .nav li a {
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #fed136;
+}
+.cf_location {
+  float: right !important;
+  top: -230px;
+}
+.cf_img-responsive,
+{
+  display: block;
+  max-width: 50%;
+  height: auto;
+}
+.cf_img-circle {
+  border-radius: 100%;
+}
